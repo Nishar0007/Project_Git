@@ -7,6 +7,9 @@ public class Sample {
 	@Test
 	public void testA2() {
 		System.out.println("testA2");
+		System.out.println("testA3");
+		System.out.println("testA4");
+
 	}
 
 }
